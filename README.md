@@ -6,7 +6,7 @@
 
 ## 刷机准备 
 路由器插好网线，插好电源，一切步骤都是在连接wifi下 <br>
-下面是三个文件
+下面是三个文件<br>
 链接：https://pan.baidu.com/s/1ygZUfvbnDbBA8T1rpqlelQ<br>
 提取码：2q99
 
