@@ -49,3 +49,16 @@
 wifi是pdcn 密码1234567890
 
 接下来你就可以自己捣鼓你的路由器，科学上网，屏蔽广告等
+
+## 分享
+老毛子Padavan固件自助交流群
+http://t.me/pdcn2
+
+老毛子Padavan固件IOS自助交流群
+http://t.me/pdcn3
+
+老毛子Padavan固件发布
+http://t.me/pdcn1
+
+固件下载地址：
+https://opt.cn2qq.com/padavan
