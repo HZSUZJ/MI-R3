@@ -62,3 +62,5 @@ http://t.me/pdcn1
 
 固件下载地址：
 https://opt.cn2qq.com/padavan
+
+## 如果帮助到您，能给颗star鼓励下嘛~~
